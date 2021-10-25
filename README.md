@@ -1,4 +1,4 @@
-Controller overlays to show per-system button mapping on top of the bezels (only for systems supporting bezels).
+Controller overlays to show per-system button mapping on top of the bezels (only for systems supporting bezels). Stem files can be found at https://github.com/Hew-ux/batocera-assets/tree/main/controller-overlays
 
 It uses the Comfortaa font, all capitals only. Refer to https://github.com/Hew-ux/batocera-assets/tree/main/fonts for more information.
 
