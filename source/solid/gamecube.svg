@@ -569,7 +569,7 @@
    inkscape:pageopacity="0"
    inkscape:pagecheckerboard="true"
    showgrid="true"
-   inkscape:current-layer="layer10"
+   inkscape:current-layer="layer7"
    inkscape:snap-bbox="false"
    inkscape:bbox-nodes="true"
    inkscape:bbox-paths="false"
@@ -635,11 +635,25 @@
        transform="matrix(1.1097336,0,0,1.1097336,-37.054757,48.302999)"><tspan
          x="137.57124"
          y="114.63007"
-         id="tspan13890">START</tspan></text></g><g
+         id="tspan1250">START</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Face buttons"
      style="display:inline"><circle
+       style="display:inline;fill:#fd2b48;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;filter:url(#filter108623)"
+       id="path218689-9-8"
+       cx="141.50366"
+       cy="130.50209"
+       r="17.5"
+       inkscape:transform-center-x="-0.0024714596"
+       inkscape:transform-center-y="-0.0003797329" /><circle
+       style="display:inline;fill:#d9d9d9;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;filter:url(#filter108623)"
+       id="path218689-9-6"
+       cx="203.50081"
+       cy="130.5"
+       r="17.5"
+       inkscape:transform-center-x="-0.0024714596"
+       inkscape:transform-center-y="-0.0003797329" /><circle
        style="fill:#d9d9d9;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;filter:url(#filter108623)"
        id="path218689"
        cx="172.50081"
@@ -649,19 +663,7 @@
        id="path218689-0"
        cx="172.50081"
        cy="161.5"
-       r="17.5" /><circle
-       style="display:inline;fill:#fd2b48;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;filter:url(#filter108623)"
-       id="path218689-9"
-       cx="-130.5"
-       cy="141.50081"
-       transform="rotate(-90)"
-       r="17.5" /><circle
-       style="display:inline;fill:#d9d9d9;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;filter:url(#filter108623)"
-       id="path218689-0-6"
-       cx="-130.5"
-       cy="203.50081"
-       r="17.5"
-       transform="rotate(-90)" /><text
+       r="17.5" /><text
        xml:space="preserve"
        id="text83349-9-6-1-07-17-3-8-9-8"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.7119px;line-height:1;font-family:'Entangled Plain BRK';-inkscape-font-specification:'Entangled Plain BRK Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect83351-4-1-4-6-5-72-2-6-6-5);shape-padding:0;shape-margin:0;inline-size:0;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.225279;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
@@ -670,7 +672,7 @@
        transform="matrix(1.1097336,0,0,1.1097336,11.715134,-31.391789)"><tspan
          x="138.70302"
          y="126.35663"
-         id="tspan13892">Y</tspan></text><text
+         id="tspan1252">Y</tspan></text><text
        xml:space="preserve"
        id="text83349-9-6-1-07-17-3-8-9-8-0"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.7119px;line-height:1;font-family:'Entangled Plain BRK';-inkscape-font-specification:'Entangled Plain BRK Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect83351-4-1-4-6-5-72-2-6-6-5-7);shape-padding:0;shape-margin:0;inline-size:0;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.225279;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
@@ -679,7 +681,7 @@
        transform="matrix(1.1097336,0,0,1.1097336,12.219925,30.608211)"><tspan
          x="138.70302"
          y="126.35663"
-         id="tspan13894">A</tspan></text><text
+         id="tspan1254">A</tspan></text><text
        xml:space="preserve"
        id="text83349-9-6-1-07-17-3-8-9-8-0-1"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.7119px;line-height:1;font-family:'Entangled Plain BRK';-inkscape-font-specification:'Entangled Plain BRK Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect83351-4-1-4-6-5-72-2-6-6-5-7-2);shape-padding:0;shape-margin:0;inline-size:0;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.225279;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
@@ -688,7 +690,7 @@
        transform="matrix(1.1097336,0,0,1.1097336,42.715134,-0.39178907)"><tspan
          x="138.70302"
          y="126.35663"
-         id="tspan13896">X</tspan></text><text
+         id="tspan1256">X</tspan></text><text
        xml:space="preserve"
        id="text83349-9-6-1-07-17-3-8-9-8-0-3"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.7119px;line-height:1;font-family:'Entangled Plain BRK';-inkscape-font-specification:'Entangled Plain BRK Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect83351-4-1-4-6-5-72-2-6-6-5-7-5);shape-padding:0;shape-margin:0;inline-size:0;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.225279;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
@@ -697,7 +699,7 @@
        transform="matrix(1.1097336,0,0,1.1097336,-19.284866,-0.39178907)"><tspan
          x="138.70302"
          y="126.35663"
-         id="tspan13898">B</tspan></text></g><g
+         id="tspan1258">B</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="D-pad"
@@ -714,7 +716,7 @@
        transform="matrix(1.1097336,0,0,1.1097336,-141.69978,-0.38990939)"><tspan
          x="135.96822"
          y="126.35663"
-         id="tspan13900">D-PAD</tspan></text></g><g
+         id="tspan1260">D-PAD</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="Dual-sticks"
@@ -749,11 +751,11 @@
        transform="matrix(1.1097336,0,0,1.1097336,-104.88913,97.532489)"><tspan
          x="143.92143"
          y="116.79879"
-         id="tspan13902">LEFT
+         id="tspan1262">LEFT
 </tspan><tspan
          x="140.77414"
          y="129.4505"
-         id="tspan13904">STICK</tspan></text><text
+         id="tspan1264">STICK</tspan></text><text
        xml:space="preserve"
        id="text83349-9-6-1-07-17-3-8-9-5-9-23-3"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.6194px;line-height:0.81;font-family:'Entangled Plain BRK';-inkscape-font-specification:'Entangled Plain BRK Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect83351-4-1-4-6-5-72-2-6-6-0-4-67-8);shape-padding:0;shape-margin:0;inline-size:0;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.225279;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
@@ -762,11 +764,11 @@
        transform="matrix(1.1097336,0,0,1.1097336,-17.88913,97.532489)"><tspan
          x="155.19081"
          y="116.79879"
-         id="tspan13906">C
+         id="tspan1266">C
 </tspan><tspan
          x="140.77414"
          y="129.4505"
-         id="tspan13908">STICK</tspan></text></g><g
+         id="tspan1268">STICK</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Shoulder buttons (1st tier)"
@@ -787,7 +789,7 @@
        transform="matrix(1.1097336,0,0,1.1097336,7.2127276,-70.383105)"><tspan
          x="149.52724"
          y="126.35663"
-         id="tspan13910">Z</tspan></text></g><g
+         id="tspan1270">Z</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Shoulder triggers (2nd tier)"
@@ -808,7 +810,7 @@
        transform="matrix(1.1097336,0,0,1.1097336,7.2127276,-106.39268)"><tspan
          x="149.52724"
          y="126.35663"
-         id="tspan13912">R</tspan></text><text
+         id="tspan1272">R</tspan></text><text
        xml:space="preserve"
        id="text83349-9-6-1-07-17-3-8"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.7119px;line-height:1;font-family:'Entangled Plain BRK';-inkscape-font-specification:'Entangled Plain BRK Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect83351-4-1-4-6-5-72-2-6);shape-padding:0;shape-margin:0;inline-size:0;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.225279;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
@@ -817,4 +819,4 @@
        transform="matrix(1.1097336,0,0,1.1097336,-127.79057,-106.39268)"><tspan
          x="149.52724"
          y="126.35663"
-         id="tspan13914">L</tspan></text></g></g></svg>
+         id="tspan1274">L</tspan></text></g></g></svg>

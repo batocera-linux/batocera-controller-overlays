@@ -569,7 +569,7 @@
    inkscape:pageopacity="0"
    inkscape:pagecheckerboard="true"
    showgrid="true"
-   inkscape:current-layer="layer10"
+   inkscape:current-layer="layer7"
    inkscape:snap-bbox="true"
    inkscape:bbox-nodes="true"
    inkscape:bbox-paths="false"
@@ -635,7 +635,7 @@
        transform="matrix(1.1097336,0,0,1.1097336,-93.073301,47.557555)"><tspan
          x="155.19081"
          y="116.79879"
-         id="tspan1314">9</tspan></text><text
+         id="tspan1141">9</tspan></text><text
        xml:space="preserve"
        id="text83349-9-6-1-07-17-3-8-9-5-9-23-1-2"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.6194px;line-height:0.81;font-family:'Entangled Plain BRK';-inkscape-font-specification:'Entangled Plain BRK Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect83351-4-1-4-6-5-72-2-6-6-0-4-67-1-0);shape-padding:0;shape-margin:0;inline-size:0;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.225279;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
@@ -644,11 +644,25 @@
        transform="matrix(1.1097336,0,0,1.1097336,-46.886501,47.557555)"><tspan
          x="155.19081"
          y="116.79879"
-         id="tspan1316">0</tspan></text></g><g
+         id="tspan1143">0</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Face buttons"
      style="display:inline"><circle
+       style="display:inline;fill:#ffd8b2;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;filter:url(#filter108623)"
+       id="path218689-9-3"
+       cx="141.50081"
+       cy="130.5"
+       r="17.5"
+       inkscape:transform-center-x="-0.0024714596"
+       inkscape:transform-center-y="-0.0003797329" /><circle
+       style="display:inline;fill:#ffd8b2;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;filter:url(#filter108623)"
+       id="path218689-9-6"
+       cx="203.49796"
+       cy="130.49791"
+       r="17.5"
+       inkscape:transform-center-x="-0.0024714596"
+       inkscape:transform-center-y="-0.0003797329" /><circle
        style="fill:#ffd8b2;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;filter:url(#filter108623)"
        id="path218689"
        cx="172.50081"
@@ -658,19 +672,7 @@
        id="path218689-0"
        cx="172.50081"
        cy="161.5"
-       r="17.5" /><circle
-       style="display:inline;fill:#ffd8b2;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;filter:url(#filter108623)"
-       id="path218689-9"
-       cx="-130.5"
-       cy="141.50081"
-       transform="rotate(-90)"
-       r="17.5" /><circle
-       style="display:inline;fill:#ffd8b2;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;filter:url(#filter108623)"
-       id="path218689-0-6"
-       cx="-130.5"
-       cy="203.50081"
-       r="17.5"
-       transform="rotate(-90)" /><text
+       r="17.5" /><text
        xml:space="preserve"
        id="text83349-9-6-1-07-17-3-8-9-8"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.7119px;line-height:1;font-family:'Entangled Plain BRK';-inkscape-font-specification:'Entangled Plain BRK Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect83351-4-1-4-6-5-72-2-6-6-5);shape-padding:0;shape-margin:0;inline-size:0;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.225279;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
@@ -679,7 +681,7 @@
        transform="matrix(1.1097336,0,0,1.1097336,11.715134,-31.391789)"><tspan
          x="142.75265"
          y="126.35663"
-         id="tspan1318">1</tspan></text><text
+         id="tspan1145">1</tspan></text><text
        xml:space="preserve"
        id="text83349-9-6-1-07-17-3-8-9-8-0"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.7119px;line-height:1;font-family:'Entangled Plain BRK';-inkscape-font-specification:'Entangled Plain BRK Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect83351-4-1-4-6-5-72-2-6-6-5-7);shape-padding:0;shape-margin:0;inline-size:0;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.225279;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
@@ -688,7 +690,7 @@
        transform="matrix(1.1097336,0,0,1.1097336,11.715133,31.024903)"><tspan
          x="132.51932"
          y="126.35663"
-         id="tspan1320">En</tspan></text><text
+         id="tspan1147">En</tspan></text><text
        xml:space="preserve"
        id="text83349-9-6-1-07-17-3-8-9-8-0-3"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.7119px;line-height:1;font-family:'Entangled Plain BRK';-inkscape-font-specification:'Entangled Plain BRK Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect83351-4-1-4-6-5-72-2-6-6-5-7-5);shape-padding:0;shape-margin:0;inline-size:0;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.225279;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
@@ -697,7 +699,7 @@
        transform="matrix(1.1097336,0,0,1.1097336,-18.868174,-0.39178907)"><tspan
          x="138.70302"
          y="126.35663"
-         id="tspan1322">2</tspan></text><text
+         id="tspan1149">2</tspan></text><text
        xml:space="preserve"
        id="text83349-9-6-1-07-17-3-8-9-8-0-1"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.7119px;line-height:1;font-family:'Entangled Plain BRK';-inkscape-font-specification:'Entangled Plain BRK Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect83351-4-1-4-6-5-72-2-6-6-5-7-2-5);shape-padding:0;shape-margin:0;inline-size:0;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.225279;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
@@ -706,7 +708,7 @@
        transform="matrix(1.1097336,0,0,1.1097336,43.131818,-0.39178802)"><tspan
          x="136.56895"
          y="126.35663"
-         id="tspan1324">Cl</tspan></text></g><g
+         id="tspan1151">Cl</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="D-pad"
@@ -723,7 +725,7 @@
        transform="matrix(1.1097336,0,0,1.1097336,-141.69978,-0.38990939)"><tspan
          x="136.971"
          y="126.35663"
-         id="tspan1326">STICK</tspan></text></g><g
+         id="tspan1153">STICK</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="Dual-sticks"
@@ -758,11 +760,11 @@
        transform="matrix(1.1097336,0,0,1.1097336,-104.88913,97.532457)"><tspan
          x="140.77414"
          y="116.79879"
-         id="tspan1328">STICK
+         id="tspan1155">STICK
 </tspan><tspan
          x="150.505"
          y="129.4505"
-         id="tspan1330">(8)</tspan></text><text
+         id="tspan1157">(8)</tspan></text><text
        xml:space="preserve"
        id="text83349-9-6-1-07-17-3-8-9-5-9-23-4"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.6194px;line-height:0.81;font-family:'Entangled Plain BRK';-inkscape-font-specification:'Entangled Plain BRK Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect83351-4-1-4-6-5-72-2-6-6-0-4-67-0);shape-padding:0;shape-margin:0;inline-size:0;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.225279;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
@@ -771,7 +773,7 @@
        transform="matrix(1.1097336,0,0,1.1097336,-17.889123,105.15099)"><tspan
          x="150.14574"
          y="116.79879"
-         id="tspan1332">(7)</tspan></text></g><g
+         id="tspan1159">(7)</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Shoulder buttons (1st tier)"
@@ -792,7 +794,7 @@
        transform="matrix(1.1097336,0,0,1.1097336,-127.79057,-70.383092)"><tspan
          x="149.52724"
          y="126.35663"
-         id="tspan1334">4</tspan></text><text
+         id="tspan1161">4</tspan></text><text
        xml:space="preserve"
        id="text83349-9-6-1-07-17-3-8-9-7"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.7119px;line-height:1;font-family:'Entangled Plain BRK';-inkscape-font-specification:'Entangled Plain BRK Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect83351-4-1-4-6-5-72-2-6-6-8);shape-padding:0;shape-margin:0;inline-size:0;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.225279;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
@@ -801,7 +803,7 @@
        transform="matrix(1.1097336,0,0,1.1097336,7.2127276,-70.383105)"><tspan
          x="149.52724"
          y="126.35663"
-         id="tspan1336">3</tspan></text></g><g
+         id="tspan1163">3</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Shoulder triggers (2nd tier)"
@@ -822,7 +824,7 @@
        transform="matrix(1.1097336,0,0,1.1097336,7.211122,-106.39268)"><tspan
          x="149.52724"
          y="126.35663"
-         id="tspan1338">5</tspan></text><text
+         id="tspan1165">5</tspan></text><text
        xml:space="preserve"
        id="text83349-9-6-1-07-17-3-8"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.7119px;line-height:1;font-family:'Entangled Plain BRK';-inkscape-font-specification:'Entangled Plain BRK Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect83351-4-1-4-6-5-72-2-6);shape-padding:0;shape-margin:0;inline-size:0;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.225279;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
@@ -831,4 +833,4 @@
        transform="matrix(1.1097336,0,0,1.1097336,-127.77001,-106.39268)"><tspan
          x="149.52724"
          y="126.35663"
-         id="tspan1340">6</tspan></text></g></g></svg>
+         id="tspan1167">6</tspan></text></g></g></svg>
